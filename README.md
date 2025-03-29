@@ -17,6 +17,11 @@
 
 📬 How to reach me: **ranjanriya@gmail.com**
 
+## 📄 Resume
+
+You can view my latest resume here:  
+[![Resume](https://img.shields.io/badge/Resume-View-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=FF0000)](https://github.com/ranjanriya/ranjanriya/blob/main/docs/Riya_Ranjan_Resume.pdf)
+
 ---
 
 ## 🤝 Socials
