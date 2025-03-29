@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Riya Ranjan</h1>
+<h1 align="left">👋 Hello, I'm Riya Ranjan</h1>
 
 🎓 I'm currently a Master's student in Computer Science at the University of Southern California, Viterbi School of Engineering.  
 💻 I have 3+ years of experience building scalable microservices, automating cloud infrastructure, and improving DevOps maturity.  
