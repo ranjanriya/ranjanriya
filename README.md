@@ -20,7 +20,7 @@
 ## 📄 Resume
 
 You can view my latest resume here:  
-[![Resume](https://img.shields.io/badge/Resume-View-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=FF0000)](https://github.com/ranjanriya/ranjanriya/blob/main/docs/Riya_Ranjan_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=FF0000)](https://github.com/ranjanriya/ranjanriya/blob/main/Riya%20Ranjan%20Resume.pdf)
 
 ---
 
