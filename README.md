@@ -12,7 +12,6 @@
 
 🌱 I’m currently learning:
 - Distributed Systems & Cloud Architecture
-- Advanced MLOps workflows
 - Kubernetes & Helm charts on production-scale clusters
 
 📬 How to reach me: **ranjanriya@gmail.com**
@@ -101,14 +100,5 @@ You can view my latest resume here:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanriya&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-
----
-
-## 🏅 Achievements
-
-- 🏅 **Volunteer of the Year** – USC Friends and Neighbors Day (2023–2024)
-- 🏆 **Dell Bravo Award** – Boosted CI/CD DevOps maturity from 23% to 93% 
-- 🥇 **Hack2Hire Hackathon Winner** – Built best service support recommender algorithm boosting customer satisfaction and retention (2019)
-
 
 ---
