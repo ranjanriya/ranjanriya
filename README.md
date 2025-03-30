@@ -23,15 +23,6 @@ You can view my latest resume here:
 
 ---
 
-## 🤝 Socials
-
-<p align="left">
-  <a href="https://linkedin.com/in/ranjanriya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ranjanriya" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
 ## 🚀 Skills
 
 ### 💻 Languages
